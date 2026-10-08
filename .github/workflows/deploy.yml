@@ -23,7 +23,7 @@ permissions:
   contents: read
 
 env:
-  AWS_REGION: eu-north-1
+  AWS_REGION: eu-central-1
   ECR_REPOSITORY: cicd-demo-app
   ECS_CLUSTER: cicd-demo-cluster
   ECS_SERVICE: cicd-demo-service
